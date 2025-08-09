@@ -38,6 +38,8 @@ ax.set_title('Year vs Duration')
 plt.xticks(rotation=90)
 plt.show()
 
+```
+
 ## How to Run
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radhishukla/Spotify-Data-Analysis/blob/main/Spotify_Data_Analysis.ipynb)    
 1. **Clone** this repository or download the notebook.  
